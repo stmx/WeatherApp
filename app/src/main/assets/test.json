@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 35.89,
+    "lat": 56.86
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "пасмурно",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 12.01,
+    "feels_like": 6.98,
+    "temp_min": 12.01,
+    "temp_max": 12.01,
+    "pressure": 1003,
+    "humidity": 75,
+    "sea_level": 1003,
+    "grnd_level": 988
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.42,
+    "deg": 250
+  },
+  "clouds": {
+    "all": 95
+  },
+  "dt": 1603442903,
+  "sys": {
+    "country": "RU",
+    "sunrise": 1603427213,
+    "sunset": 1603462457
+  },
+  "timezone": 10800,
+  "id": 480060,
+  "name": "Тверь",
+  "cod": 200
+}
